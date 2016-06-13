@@ -1,4 +1,3 @@
-http://geektalkpro.com
 
 <head>
   <style>
@@ -34,8 +33,3 @@ p {
 <h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!-blog">TALKS</a></h4>
 </div>
 </center>
-.htaccess ReWriteRule
-
-RewriteEngine on
-RewriteRule public$ public.html
-RewriteRule about$ about.html
