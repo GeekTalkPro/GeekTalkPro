@@ -1,0 +1,41 @@
+http://geektalkpro.com
+
+<head>
+  <style>
+h1 {
+  color: black;
+  font-size: 100px;
+  display: inline;
+  font-family: Arial;
+}
+p {
+  color: orange;
+  font-size: 50px;
+}
+  </style>
+</head>
+    <center><h1> Geek Talk </h1>
+<p> Yeah im a geek... </p></center>
+
+<head>
+  <style>
+    </style>
+  </head>
+<center>
+</div>
+<h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!?usermsg=hi&submitmsg=Send#">HOME</a></h4>
+<h4>---------</h4>
+<h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!-blog">BLOG</a></h4>
+<h4>-----------</h4>
+<h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!-Donations">DONATIONS</a></h4>
+<h4>-----------------</h4>
+<h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!-blog">SOCIAL MEDIA</a></h4>
+<h4>----------------</h4>
+<h4><a href="file:///Users/EllaZee/Desktop/untitled%20folder%202/Hey!-blog">TALKS</a></h4>
+</div>
+</center>
+.htaccess ReWriteRule
+
+RewriteEngine on
+RewriteRule public$ public.html
+RewriteRule about$ about.html
